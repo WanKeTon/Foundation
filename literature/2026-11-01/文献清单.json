@@ -1,0 +1,1457 @@
+[
+  {
+    "id": "R01",
+    "original_filename": "1-s2.0-S0168192325006124-main.md",
+    "title": "Bedrock controls vegetation resilience: Dominant role of lithology in the 2022 southern China drought",
+    "filename": "Bedrock controls vegetation resilience： Dominant role of lithology in the 2022 southern China drought.md",
+    "path": "papers/Bedrock controls vegetation resilience： Dominant role of lithology in the 2022 southern China drought.md",
+    "doi": "10.1016/j.agrformet.2025.110991",
+    "citation_year": 2026,
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.agrformet.2025.110991",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "2775bc6dd8534e02d17a59d90e0f31e1a25f6d026505ef3a41ac0ed5c5e113e9",
+    "bytes": 56412,
+    "image_references": 18,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.agrformet.2025.110991",
+      "page": "110991",
+      "title": [
+        "Bedrock controls vegetation resilience: Dominant role of lithology in the 2022 southern China drought"
+      ],
+      "volume": "378",
+      "author": [
+        {
+          "given": "Qian",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8972-9671",
+          "authenticated-orcid": false,
+          "given": "Yuemin",
+          "family": "Yue",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lu",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiangkun",
+          "family": "Qi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kelin",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Agricultural and Forest Meteorology"
+      ],
+      "URL": "https://doi.org/10.1016/j.agrformet.2025.110991",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3
+          ]
+        ]
+      },
+      "article-number": "110991"
+    }
+  },
+  {
+    "id": "R02",
+    "original_filename": "1-s2.0-S0341816224003539-main.md",
+    "title": "The dominant influence of terrain and geology on vegetation mortality in response to drought: Exploring resilience and resistance",
+    "filename": "The dominant influence of terrain and geology on vegetation mortality in response to drought： Exploring resilience and resistance.md",
+    "path": "papers/The dominant influence of terrain and geology on vegetation mortality in response to drought： Exploring resilience and resistance.md",
+    "doi": "10.1016/j.catena.2024.108156",
+    "citation_year": 2024,
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.catena.2024.108156",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "9931a47b8798b866eeedf6cf1b5708944bb5ef8aa03d2caf0a1b154eda77c5e9",
+    "bytes": 53618,
+    "image_references": 17,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.catena.2024.108156",
+      "page": "108156",
+      "title": [
+        "The dominant influence of terrain and geology on vegetation mortality in response to drought: Exploring resilience and resistance"
+      ],
+      "volume": "243",
+      "author": [
+        {
+          "given": "Linying",
+          "family": "Xiao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jinxing",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiuqin",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Muhammad",
+          "family": "Anas Khan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sen",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xinliang",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "CATENA"
+      ],
+      "URL": "https://doi.org/10.1016/j.catena.2024.108156",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            8
+          ]
+        ]
+      },
+      "article-number": "108156"
+    }
+  },
+  {
+    "id": "R03",
+    "original_filename": "1-s2.0-S0168192323005300-main.md",
+    "title": "Memory effects of vegetation after extreme weather events under various geological conditions in a typical karst watershed in southwestern China",
+    "filename": "Memory effects of vegetation after extreme weather events under various geological conditions in a typical karst watershed in southwestern China.md",
+    "path": "papers/Memory effects of vegetation after extreme weather events under various geological conditions in a typical karst watershed in southwestern China.md",
+    "doi": "10.1016/j.agrformet.2023.109840",
+    "citation_year": 2024,
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.agrformet.2023.109840",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "176ac4079e51b745c799c737f207c00386aae1d62f5accb5bdac3381698ae5b4",
+    "bytes": 62951,
+    "image_references": 26,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.agrformet.2023.109840",
+      "page": "109840",
+      "title": [
+        "Memory effects of vegetation after extreme weather events under various geological conditions in a typical karst watershed in southwestern China"
+      ],
+      "volume": "345",
+      "author": [
+        {
+          "given": "Linying",
+          "family": "Xiao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5177-4474",
+          "authenticated-orcid": false,
+          "given": "Xiuqin",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0452-2899",
+          "authenticated-orcid": false,
+          "given": "Sen",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2182-9849",
+          "authenticated-orcid": false,
+          "given": "Jinxing",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Agricultural and Forest Meteorology"
+      ],
+      "URL": "https://doi.org/10.1016/j.agrformet.2023.109840",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            2
+          ]
+        ]
+      },
+      "article-number": "109840"
+    }
+  },
+  {
+    "id": "R04",
+    "original_filename": "1-s2.0-S2214581826009912-main.md",
+    "title": "Spatial differentiation of ecosystem resilience and asymmetric response mechanisms under flash drought stress in Asian Karst Concentration areas",
+    "filename": "Spatial differentiation of ecosystem resilience and asymmetric response mechanisms under flash drought stress in Asian Karst Concentration areas.md",
+    "path": "papers/Spatial differentiation of ecosystem resilience and asymmetric response mechanisms under flash drought stress in Asian Karst Concentration areas.md",
+    "doi": "10.1016/j.ejrh.2026.104093",
+    "citation_year": 2026,
+    "metadata_source": "https://api.crossref.org/works/10.1016/j.ejrh.2026.104093",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "e2e5228c7681de7feeaf198d42db14f146a61973a6d3bc41a6bb0ec89d9f77a4",
+    "bytes": 84725,
+    "image_references": 30,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.ejrh.2026.104093",
+      "page": "104093",
+      "title": [
+        "Spatial differentiation of ecosystem resilience and asymmetric response mechanisms under flash drought stress in Asian Karst Concentration areas"
+      ],
+      "volume": "68",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0004-6334-0843",
+          "authenticated-orcid": false,
+          "given": "Haoze",
+          "family": "Ding",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5635-0286",
+          "authenticated-orcid": false,
+          "given": "Qi",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6896-0655",
+          "authenticated-orcid": false,
+          "given": "Yuan",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhengshan",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qiuwen",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shunfu",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-2407-445X",
+          "authenticated-orcid": false,
+          "given": "Yuluan",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Hydrology: Regional Studies"
+      ],
+      "URL": "https://doi.org/10.1016/j.ejrh.2026.104093",
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "article-number": "104093"
+    }
+  },
+  {
+    "id": "R05",
+    "original_filename": "50AE95BFEDAD4158BBD7E8A713DC9C1F.md",
+    "title": "植被恢复对西南喀斯特地区土壤气候韧性的提升作用",
+    "filename": "植被恢复对西南喀斯特地区土壤气候韧性的提升作用.md",
+    "path": "papers/植被恢复对西南喀斯特地区土壤气候韧性的提升作用.md",
+    "doi": "10.20103/j.stxb.202302070207",
+    "citation_year": 2023,
+    "metadata_source": "https://www.ecologica.cn/stxb/article/abstract/stxb202302070207",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "bccd87b7124d69d71947ea475b6c71c53a695d18c3ea02f6117e3e08ba445227",
+    "bytes": 53243,
+    "image_references": 7,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {}
+  },
+  {
+    "id": "R06",
+    "original_filename": "s41467-020-16156-1.md",
+    "title": "Bedrock geochemistry influences vegetation growth by regulating the regolith water holding capacity",
+    "filename": "Bedrock geochemistry influences vegetation growth by regulating the regolith water holding capacity.md",
+    "path": "papers/Bedrock geochemistry influences vegetation growth by regulating the regolith water holding capacity.md",
+    "doi": "10.1038/s41467-020-16156-1",
+    "citation_year": 2020,
+    "metadata_source": "https://api.crossref.org/works/10.1038/s41467-020-16156-1",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "63ab12fb375f0134d34f20049b30c4dc00dbbccd721484fe4fb982709242079b",
+    "bytes": 53686,
+    "image_references": 11,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "issue": "1",
+      "DOI": "10.1038/s41467-020-16156-1",
+      "title": [
+        "Bedrock geochemistry influences vegetation growth by regulating the regolith water holding capacity"
+      ],
+      "volume": "11",
+      "author": [
+        {
+          "given": "Zihan",
+          "family": "Jiang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6721-4439",
+          "authenticated-orcid": false,
+          "given": "Hongyan",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hongya",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jian",
+          "family": "Peng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeroen",
+          "family": "Meersmans",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sophie M.",
+          "family": "Green",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5143-5157",
+          "authenticated-orcid": false,
+          "given": "Timothy A.",
+          "family": "Quine",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xiuchen",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhaoliang",
+          "family": "Song",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "Nature Communications"
+      ],
+      "URL": "https://doi.org/10.1038/s41467-020-16156-1",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            5,
+            13
+          ]
+        ]
+      },
+      "article-number": "2392"
+    }
+  },
+  {
+    "id": "R07",
+    "original_filename": "agronomy-14-02235.md",
+    "title": "Knowledge Mapping Analysis of Karst Rocky Desertification Vegetation Restoration in Southwest China: A Study Based on Web of Science Literature",
+    "filename": "Knowledge Mapping Analysis of Karst Rocky Desertification Vegetation Restoration in Southwest China： A Study Based on Web of Science Literature.md",
+    "path": "papers/Knowledge Mapping Analysis of Karst Rocky Desertification Vegetation Restoration in Southwest China： A Study Based on Web of Science Literature.md",
+    "doi": "10.3390/agronomy14102235",
+    "citation_year": 2024,
+    "metadata_source": "https://api.crossref.org/works/10.3390/agronomy14102235",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "b5990ee1f3686da900bf30e2ff4dd4e8fc339ee1a88b940742ff7e9b93e86539",
+    "bytes": 76647,
+    "image_references": 10,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "issue": "10",
+      "DOI": "10.3390/agronomy14102235",
+      "page": "2235",
+      "title": [
+        "Knowledge Mapping Analysis of Karst Rocky Desertification Vegetation Restoration in Southwest China: A Study Based on Web of Science Literature"
+      ],
+      "volume": "14",
+      "author": [
+        {
+          "given": "Xiaxia",
+          "family": "Lu",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute of Karst Research, Guizhou Normal University, Guiyang 550001, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Maoyin",
+          "family": "Sheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Karst Research, Guizhou Normal University, Guiyang 550001, China"
+            },
+            {
+              "name": "National Engineering Research Center for Karst Rocky Desertification Control, Guizhou Normal University, Guiyang 550001, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mengxia",
+          "family": "Luo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Karst Research, Guizhou Normal University, Guiyang 550001, China"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            27
+          ]
+        ]
+      },
+      "container-title": [
+        "Agronomy"
+      ],
+      "URL": "https://doi.org/10.3390/agronomy14102235",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            27
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": "R08",
+    "original_filename": "s40494-025-01968-5.md",
+    "title": "The systematic literature review of the karst desertification control research status and prospects",
+    "filename": "The systematic literature review of the karst desertification control research status and prospects.md",
+    "path": "papers/The systematic literature review of the karst desertification control research status and prospects.md",
+    "doi": "10.1038/s40494-025-01968-5",
+    "citation_year": 2025,
+    "metadata_source": "https://api.crossref.org/works/10.1038/s40494-025-01968-5",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "902cc2418fd5a3629dbfbc20a4a4ca0a5c34823ed7d46e5b231d553b7a4c8afb",
+    "bytes": 112026,
+    "image_references": 15,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "issue": "1",
+      "DOI": "10.1038/s40494-025-01968-5",
+      "title": [
+        "The systematic literature review of the karst desertification control research status and prospects"
+      ],
+      "volume": "13",
+      "author": [
+        {
+          "given": "Yu",
+          "family": "Zhang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhaohui",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anjun",
+          "family": "Lan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Li",
+          "family": "Rong",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhouwei",
+          "family": "Yuan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            9
+          ]
+        ]
+      },
+      "container-title": [
+        "npj Heritage Science"
+      ],
+      "URL": "https://doi.org/10.1038/s40494-025-01968-5",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            9
+          ]
+        ]
+      },
+      "article-number": "393"
+    }
+  },
+  {
+    "id": "R09",
+    "original_filename": "s41467-024-49522-4.md",
+    "title": "Landform and lithospheric development contribute to the assembly of mountain floras in China",
+    "filename": "Landform and lithospheric development contribute to the assembly of mountain floras in China.md",
+    "path": "papers/Landform and lithospheric development contribute to the assembly of mountain floras in China.md",
+    "doi": "10.1038/s41467-024-49522-4",
+    "citation_year": 2024,
+    "metadata_source": "https://api.crossref.org/works/10.1038/s41467-024-49522-4",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "8b66ed6e7d4c2fdddf5e6089aac3a3dc7bccbf87c051fb184e55f997286587e0",
+    "bytes": 81406,
+    "image_references": 11,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "issue": "1",
+      "DOI": "10.1038/s41467-024-49522-4",
+      "title": [
+        "Landform and lithospheric development contribute to the assembly of mountain floras in China"
+      ],
+      "volume": "15",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6103-1236",
+          "authenticated-orcid": false,
+          "given": "Wan-Yi",
+          "family": "Zhao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-4039-0285",
+          "authenticated-orcid": false,
+          "given": "Zhong-Cheng",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6906-6732",
+          "authenticated-orcid": false,
+          "given": "Shi",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jie-Lan",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2239-0487",
+          "authenticated-orcid": false,
+          "given": "Ke-Wang",
+          "family": "Xu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1090-8851",
+          "authenticated-orcid": false,
+          "given": "Kang-You",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhi-Hui",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ya-Rong",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0009-6134-2032",
+          "authenticated-orcid": false,
+          "given": "Cui-Ying",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yan",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jing-Rui",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xian-Ling",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wen-Xing",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Long-Yuan",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kai-Kai",
+          "family": "Meng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0005-7064-1617",
+          "authenticated-orcid": false,
+          "given": "Xu-Jie",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-7146-9240",
+          "authenticated-orcid": false,
+          "given": "Qian-Yi",
+          "family": "Yin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ren-Chao",
+          "family": "Zhou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhao-Dong",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hao",
+          "family": "Wu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Da-Fang",
+          "family": "Cui",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhi-Yao",
+          "family": "Su",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Guo-Rong",
+          "family": "Xin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wei-Qiu",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wen-Sheng",
+          "family": "Shu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jian-Hua",
+          "family": "Jin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1483-9651",
+          "authenticated-orcid": false,
+          "given": "David E.",
+          "family": "Boufford",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4254-6936",
+          "authenticated-orcid": false,
+          "given": "Qiang",
+          "family": "Fan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lei",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3920-7618",
+          "authenticated-orcid": false,
+          "given": "Su-Fang",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6839-9511",
+          "authenticated-orcid": false,
+          "given": "Wen-Bo",
+          "family": "Liao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            17
+          ]
+        ]
+      },
+      "container-title": [
+        "Nature Communications"
+      ],
+      "URL": "https://doi.org/10.1038/s41467-024-49522-4",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            17
+          ]
+        ]
+      },
+      "article-number": "5139"
+    }
+  },
+  {
+    "id": "R10",
+    "original_filename": "s41467-025-66987-z.md",
+    "title": "ENSO amplifies global vegetation resilience variability in a changing climate",
+    "filename": "ENSO amplifies global vegetation resilience variability in a changing climate.md",
+    "path": "papers/ENSO amplifies global vegetation resilience variability in a changing climate.md",
+    "doi": "10.1038/s41467-025-66987-z",
+    "citation_year": 2025,
+    "metadata_source": "https://api.crossref.org/works/10.1038/s41467-025-66987-z",
+    "metadata_checked_on": "2026-11-01",
+    "sha256": "71b2b6fee03c68b8229a11d914c2d0361e51fa25584d592dfb74cada22a2dd40",
+    "bytes": 74590,
+    "image_references": 38,
+    "images_provided": false,
+    "reading_scope": "已阅读用户提供的Markdown正文、方法、结果、讨论、结论及可辨认表格和图注；未核读缺失图像及独立补充材料",
+    "verified_metadata": {
+      "issue": "1",
+      "DOI": "10.1038/s41467-025-66987-z",
+      "title": [
+        "ENSO amplifies global vegetation resilience variability in a changing climate"
+      ],
+      "volume": "17",
+      "author": [
+        {
+          "given": "Wei",
+          "family": "Zhou",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7297-9658",
+          "authenticated-orcid": false,
+          "given": "Changjia",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9313-5953",
+          "authenticated-orcid": false,
+          "given": "Haicheng",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0017-1654",
+          "authenticated-orcid": false,
+          "given": "Lindsay C.",
+          "family": "Stringer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jingyu",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1080-4569",
+          "authenticated-orcid": false,
+          "given": "Zhongci",
+          "family": "Deng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7902-4093",
+          "authenticated-orcid": false,
+          "given": "Zhen",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            4
+          ]
+        ]
+      },
+      "container-title": [
+        "Nature Communications"
+      ],
+      "URL": "https://doi.org/10.1038/s41467-025-66987-z",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            4
+          ]
+        ]
+      },
+      "article-number": "267"
+    }
+  }
+]

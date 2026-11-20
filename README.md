@@ -10,3 +10,4 @@ Repository for the project named 基金
 
 - [国家政策资料库（2024—2026年为主）](policies/traditional-villages/README.md)：17份政策与法律卡片，其中近三年10份、前序补充7份，附主题索引、五个子课题映射及参考文献。
 - [2026年国社科重大项目投标书：公众号填写示例](templates/2026国社科重大项目投标书_公众号填写示例.md)：用户上传PDF的Markdown转换稿，保留表4—表10填写示例、占位符及页码对照。
+- [表5：研究框架和预期目标（审阅稿）](proposals/traditional-villages/表5_研究框架和预期目标.md)：2026年11月20日更新五个子课题名称，正文保留四栏目、18段结构。
